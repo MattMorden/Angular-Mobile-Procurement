@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/src/java/dtos/PurchaseOrderDTO.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/src/java/servlets/PDFSample.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/src/java/resources/VendorsResource.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/src/java/servlets/PDFSampleServlet.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/src/java/resources/PurchaseOrderResource.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/web/index.html</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/src/java/resources/ApplicationConfig.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/web/prod/bundle.min.js</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/src/java/servlets/PurchaseOrderPDFServlet.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/src/java/resources/EmployeesResource.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/web/WEB-INF/web.xml</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/src/java/resources/ProductsResource.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/src/java/servlets/QRCodeServlet.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/src/java/models/PurchaseOrderModel.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-war/src/java/dtos/PurchaseOrderLineItemDTO.java</file>
+        </group>
+    </open-files>
+</project-private>

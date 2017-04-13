@@ -1,0 +1,59 @@
+.error {font-size: x-small; font-weight: bold; color: red; text-align: left;}
+
+.navbar-inverse{
+    background-color:gold !important;
+}
+
+.navbar-toggle{
+    background-color:black !important;
+}
+
+.navbar-inverse .navbar-brand{
+    color:black;
+    background-color:gold !important;
+}
+
+.panel-body{
+    background-color:gold;
+}
+
+.list-group-item{
+    background-color:black;
+}
+
+a.list-group-item, button.list-group-item{
+    color:whitesmoke;
+}
+
+.panel-default>.panel-heading{
+    background-color:gold;
+    border:1px solid black;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd){
+    background-color:black;
+    color:whitesmoke;
+}
+
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th{
+    border:1px solid black;
+}
+
+.panel-primary{
+    border-color:black;
+}
+
+.panel-primary>.panel-heading{
+    border-color:black;
+    color:whitesmoke;
+    background-color:black;
+}
+
+.btn-primary{
+    background-color:black;
+    border-color:black;
+}
+
+.panel-footer{
+    background-color:gold;
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-ejb/src/java/dtos/PurchaseOrderLineItemEJBDTO.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-ejb/src/java/ejbs/ProductFacadeBean.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-ejb/src/java/dtos/PurchaseOrderEJBDTO.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-ejb/src/java/dtos/ProductEJBDTO.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-ejb/src/java/dtos/VendorEJBDTO.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-ejb/src/java/ejbs/AbstractFacade.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-ejb/src/java/models/PurchaseordersModel.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-ejb/src/java/ejbs/PurchaseOrderFacadeBean.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-ejb/src/java/models/PurchaseorderlineitemsModel.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-ejb/src/java/ejbs/UtilityMethods.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-ejb/src/java/ejbs/VendorFacadeBean.java</file>
+            <file>file:/E:/Semester6/Java%20Client%20Server/CaseStudyTwo/CaseStudyTwo-ejb/src/java/models/ProductsModel.java</file>
+        </group>
+    </open-files>
+</project-private>
